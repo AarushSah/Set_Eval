@@ -28,4 +28,4 @@
     ```
 
 ### Acknowledegements:
-Special thanks to [Zack Witton](https://x.com/zswitten) for the idea!
+Special thanks to [Zack Witten](https://x.com/zswitten) for the idea!
