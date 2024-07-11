@@ -1,0 +1,5 @@
+anthropic
+inspect-ai
+openai
+pillow
+tqdm
